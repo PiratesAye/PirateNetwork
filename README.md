@@ -90,12 +90,24 @@ TODO: [Кто занимается проектом, делаем конкерт
 
 ## Ревизии документа
 
+Так как этот Work-in-Progress, основные моменты планирования сети должны быть отражены в документе.
+
 ## 19 Января 2022
 
 Основные технологии, которые необходимо принять во внимание
 
-1. Hyperledger Fabric
-2. Yggdrasil
-3. OpenWRT
-4. Ethereum
+1. [Hyperledger Fabric](https://www.hyperledger.org/use/fabric)
+2. [Yggdrasil](https://yggdrasil-network.github.io/)
+3. [OpenWRT](https://openwrt.org/)
+4. [Ethereum](https://ethereum.org/en/)
 5. [Arti](https://gitlab.torproject.org/tpo/core/arti/)
+
+### Открытые вопросы (Идеи)
+
+1. Участники сети анонимны, но обладают identity (eth pubkey)
+2. Анонимность внутри сети
+3. Tor, луковичный роутинг
+4. Каким образом должны поощеряться операторы узлов сети, исходя из статистики их оборудовния
+5. High-Level Pirate Passport, на основе identity; Reputation / Credibility 
+6. Pirate Network — мост в Yggdrasil или распределенная организация для поддержания оборудовния для доступа в Yggdrasil
+7. Внутренние ресурсы, everyday usage
