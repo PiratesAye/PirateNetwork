@@ -84,3 +84,18 @@ TODO: [Кто занимается проектом, делаем конкерт
 
 [1] [Hyperledger Fabric для Чайников, Николай Нефедов, Habrahabr, 22 марта 2019](https://habr.com/ru/company/ibm/blog/444874/)
 [2] [CJDNS мертв, да здравствует Yggdrasil, shifttstas, 16 марта 2019](https://habr.com/ru/post/443934/)
+
+
+---
+
+## Ревизии документа
+
+## 19 Января 2022
+
+Основные технологии, которые необходимо принять во внимание
+
+1. Hyperledger Fabric
+2. Yggdrasil
+3. OpenWRT
+4. Ethereum
+5. [Arti](https://gitlab.torproject.org/tpo/core/arti/)
